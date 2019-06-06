@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Social Network",
   "main": "server.js",
-  "engines": {
-    "node": "^8.10.0"
-  },
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
